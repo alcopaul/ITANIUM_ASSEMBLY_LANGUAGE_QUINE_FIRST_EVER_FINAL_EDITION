@@ -8,8 +8,8 @@ Still Not RTM So This Is Open For Collabs.
 April 21, 2026, NYC
 
 #
-# ========================================================
-# = PART OF                                              =
-# = OPERATION ANTI-BRAINROTTINGRETARDSTRYINGTOBERELEVANT =
-# ========================================================
+# =====================================================
+# PART OF                                             
+# OPERATION ANTI-BRAINROTTINGRETARDSTRYINGTOBERELEVANT
+# =====================================================
 # 
