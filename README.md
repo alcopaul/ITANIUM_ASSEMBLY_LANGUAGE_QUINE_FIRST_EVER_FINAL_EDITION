@@ -11,8 +11,8 @@ Updates:
 April 21, 2026, NYC
 
 #
-# =====================================================================
-# PART OF                                             
-# OPERATION ANTI-BRAINROTTINGRETARDSFROMANONLINEFORUMTRYINGTOBERELEVANT
-# =====================================================================
+# =======================================================================
+#  PART OF                                             
+#  OPERATION ANTI-BRAINROTTINGRETARDSFROMANONLINEFORUMTRYINGTOBERELEVANT
+# =======================================================================
 # 
