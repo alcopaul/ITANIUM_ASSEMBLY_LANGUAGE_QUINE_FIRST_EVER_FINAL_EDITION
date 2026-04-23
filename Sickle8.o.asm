@@ -6,9 +6,9 @@
 // |           Copyright (c) 2019 Hex-Rays, <support@hex-rays.com>           |
 // +-------------------------------------------------------------------------+
 //
-// Input SHA256 : 799CBD5901884E4E142DBC8324507772B7AC12E18787C6F1D00E0A6E33ED11F6
-// Input MD5    : 059E5CF8B5E0B72E3EE8D07C84B987D7
-// Input CRC32  : 1670BA16
+// Input SHA256 : 4415CD7F08B39DAE35FFF3F4F8D72733AAF6D0167BF0EBFBD842A18B66ADCCEA
+// Input MD5    : E4368C33D1D9444954CB426C24A2B38A
+// Input CRC32  : 9D248868
 
 // File Name   : Z:\home\alcopaul\Downloads\Sickle8.o
 // Format      : ELF64 for Itanium IA64 (Relocatable)
