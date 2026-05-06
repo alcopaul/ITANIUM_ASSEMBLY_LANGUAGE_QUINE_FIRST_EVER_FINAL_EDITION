@@ -1,6 +1,6 @@
 # ITANIUM_ASSEMBLY_LANGUAGE_QUINE_FIRST_EVER_FINAL_EDITION
 
-Itanium67.asm = First Ever Itanium Assembly Language Quine
+Itanium67.asm = First Ever Itanium/Itanium 2 IA-64 Assembly Language Quine (UNIX 03)
 
 Itanium67.asm.2x = Backup Copy
 
