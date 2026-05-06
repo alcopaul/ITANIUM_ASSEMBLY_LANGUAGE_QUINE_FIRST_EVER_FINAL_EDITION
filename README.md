@@ -4,11 +4,11 @@ Itanium67.asm = First Ever Itanium/Itanium 2 IA-64 Assembly Language Quine (UNIX
 
 Itanium67.asm.2x = Backup Copy Of Itanium67.asm
 
-ITAx67.asm = 1st Generation (Itanium67.asm(
+ITAx67.asm = 1st Generation (Itanium67.asm)
 
 Itanium67sb.asm = First Ever Itanium/Itanium 2 IA-64 Assembly Language Quine With Explicit Stop Bits (UNIX 03)
 
-ias5b.asm = 1st Generation (Itanium67sn.asm(
+ias5b.asm = 1st Generation (Itanium67sb.asm(
 
 Updates:
 
