@@ -2,13 +2,17 @@
 
 Itanium67.asm = First Ever Itanium/Itanium 2 IA-64 Assembly Language Quine (UNIX 03)
 
-Itanium67.asm.2x = Backup Copy
+Itanium67.asm.2x = Backup Copy Of Itanium67.asm
 
-ITAx67.asm = 1st Generation
+ITAx67.asm = 1st Generation (Itanium67.asm(
+
+Itanium67sb.asm = First Ever Itanium/Itanium 2 IA-64 Assembly Language Quine With Explicit Stop Bits (UNIX 03)
+
+ias5b.asm = 1st Generation (Itanium67sn.asm(
 
 Updates:
 
-05/06/2026 - Added KVquiDU.jpeg, 88tdG66.jpeg, 3SQUaVk.jpeg & HP_UNIX03_INTEL_ITANIUM_ITANIUM_2_IA-64.html
+05/06/2026 - Added Itanium67sb.asm, Itanium67sb.o, ias5b.asm, ias5b.o, KVquiDU.jpeg, 88tdG66.jpeg, 3SQUaVk.jpeg & HP_UNIX03_INTEL_ITANIUM_ITANIUM_2_IA-64.html
 
 05/05/2026 - Added Itanium67.asm, Itanium67.asm.2x, Itanium67.o, ITAx67.asm, ITAx67.o, Itanium67.txt.bat, Itanium67.obj.asm, Itanium67.obj, Itanium67.exe.asm, Itanium67.exe, Screenshot from 2026-05-05 21-59-59.png, Screenshot from 2026-05-05 21-59-50.png, Screenshot From 2026-05-05 21-33-22.png, Screenshot From 2026-05-05 21-33-33.png, Screenshot From 2026-05-05 21-34-52.png, Screenshot From 2026-05-05 21-35-05.png, Screenshot From 2026-05-05 21-35-18.png, Screenshot From 2026-05-05 21-35-32.png, Screenshot From 2026-05-05 21-36-01.png, Screenshot From 2026-05-05 21-39-14.png, Screenshot From 2026-05-05 21-39-33.png, Screenshot From 2026-05-05 21-39-55.png, qia64.asm, qia64.o, qias64.txt.bat, qias64.txt, qias64.obj.asm, qias64.obj, qias64.exe.asm, qias64.exe, qias64.asm.2x, Screenshot from 2026-05-05 16-38-47.png, Screenshot from 2026-05-05 16-38-35.png, Ophir.html, Nihon.html, Formosa.html, Screenshot From 2026-05-05 12-52-27-1.png, Screenshot From 2026-05-05 12-52-49.png, Screenshot From 2026-05-05 12-54-20.png & Screenshot From 2026-05-05 12-54-37.png
 
